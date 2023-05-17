@@ -1,0 +1,10 @@
+# Define the goal
+sensor_msgs/Image image_input
+---
+# Define the result
+sensor_msgs/Image image_result
+std_msgs/Float64MultiArray Float64_array
+std_msgs/UInt64MultiArray Uint64_array
+---
+# Define a feedback message
+std_msgs/String task_progress

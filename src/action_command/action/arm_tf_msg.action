@@ -1,0 +1,8 @@
+# Define the goal
+geometry_msgs/Pose pose
+---
+# Define the result
+std_msgs/String task_result
+---
+# Define a feedback message
+std_msgs/String task_progress
