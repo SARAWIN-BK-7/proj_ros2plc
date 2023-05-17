@@ -10,3 +10,6 @@
 [submodule "usb_cam"]
 	path = usb_cam
 	url = https://github.com/ros-drivers/usb_cam.git
+[submodule "moveit"]
+	path = moveit
+	url = https://github.com/ros-planning/moveit.git
