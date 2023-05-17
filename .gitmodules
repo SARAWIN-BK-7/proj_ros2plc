@@ -7,4 +7,6 @@
 [submodule "ur_modern_driver"]
 	path = ur_modern_driver
 	url = https://github.com/ros-industrial/ur_modern_driver.git
-
+[submodule "ur_modern_driver"]
+	path = ds4_driver
+	url = https://github.com/naoki-mizuno/ds4_driver
