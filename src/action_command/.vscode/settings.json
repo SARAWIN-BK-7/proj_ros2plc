@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/oongking/config_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/Rescue_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/test_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/ws_moveit/devel/lib/python3/dist-packages",
+        "/home/oongking/Camera_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/ur5_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/RobotArm_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/oongking/config_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/Rescue_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/test_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/ws_moveit/devel/lib/python3/dist-packages",
+        "/home/oongking/Camera_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/ur5_ws/devel/lib/python3/dist-packages",
+        "/home/oongking/RobotArm_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

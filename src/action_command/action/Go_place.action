@@ -1,0 +1,9 @@
+# Define the goal
+uint32 pos_num
+std_msgs/String release_type
+---
+# Define the result
+std_msgs/String task_result
+---
+# Define a feedback message
+std_msgs/String task_progress

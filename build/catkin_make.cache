@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/sarawin-b/proj_ros2plc/devel -DCMAKE_INSTALL_PREFIX=/home/sarawin-b/proj_ros2plc/install -G Unix Makefiles
