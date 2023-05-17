@@ -1,2 +1,2 @@
-# proj_r2p
+# proj_ros_plc
 
